@@ -6,7 +6,7 @@ This is a **React, Redux, and Material UI** based weather forecast application t
 
 Check out the live demo of the application at:
 
-🔗 [sarodev.ir](https://sarodev.ir)
+🔗 [sarodev.ir](https://sarodev.ir/projects/Weather)
 
 ## ✨ Features
 
